@@ -9,7 +9,7 @@ public class Homework1c {
         System.out.println(" Enter a text");
         String text = keyboard.nextLine();
         int middle = text.length();
-
+        System.out.println(text.charAt(middle/2));
 
     }
 }
