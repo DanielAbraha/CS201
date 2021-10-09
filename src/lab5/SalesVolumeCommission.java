@@ -42,7 +42,7 @@ public class SalesVolumeCommission {
 
         public static void main(String[] args) {
             workHours();
-            System.out.println(" Total total wage : " + commissionWage());
+            System.out.println(" The total wage : " + commissionWage());
         }
     }
 
